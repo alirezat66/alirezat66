@@ -28,7 +28,7 @@
 - 📨 Or for fast way just send me a Mail in artzadeh87@gmail.com
 - ⚡ Fun fact: I Love Footbal, 🚀Gaming and 🎮Call of duty
 ### Persian Flutter Community
-I'm one of the Persian Flutter staffs, if you speak Persian and love Flutter you can join us now
+I'm one of the Persian Flutter staffs, if you speak Farsi and love Flutter you can join us now
 
 - Find all things about Persian Flutter in our <a href="http://persianflutter.com">
         <img src="https://img.shields.io/website-up-down-green-red/http/persianflutter.com.svg" />
