@@ -22,13 +22,11 @@
 </div>
 
 ### I'm a Software Engineer, Developer and #Flutter lover
-- 💖 First Of all I love My Happiness
 - 🔭 I’m realy interested about Flutter and dart
 - 💬 Ask me anything about flutter and dart
 - 🌏 You can find me in social that is mentioned in top
 - 📨 Or for fast way just send me a Mail in artzadeh87@gmail.com
-- ⚡ Fun fact: I Love Footbal, 🚀Gaming and 🎮Dota 2
-
+- ⚡ Fun fact: I Love Footbal, 🚀Gaming and 🎮Call of duty
 ### Persian Flutter Community
 I'm one of the Persian Flutter staffs, if you speak Persian and love Flutter you can join us now
 
